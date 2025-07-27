@@ -18,6 +18,10 @@
 		{
 			"Name": "USDImporter",
 			"Enabled": true
+		},
+		{
+			"Name": "CommonUI",
+			"Enabled": true
 		}
 	]
 }
